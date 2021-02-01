@@ -30,5 +30,5 @@ ul li{
     color: rgb(158, 29, 29);
 }
 li:hover{
-    color: green;
+    color: red;
 }
